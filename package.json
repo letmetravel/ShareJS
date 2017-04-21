@@ -1,6 +1,6 @@
 {
   "name": "share-lmt",
-  "version": "0.7.22",
+  "version": "0.7.23",
   "description": "A database for concurrent document editing",
   "keywords": [
     "operational transformation",
@@ -32,8 +32,7 @@
   },
   "engine": "node >= 0.10",
   "main": "lib/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "licenses": [
     {
       "type": "BSD",
